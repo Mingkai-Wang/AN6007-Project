@@ -91,3 +91,79 @@
 2025-02-13 11:33:45,138 - PowerManagementSystem - ERROR - Monthly archive file not found: D:\OneDrive\ƒœ—Û¿Ìπ§\MSBA-T2\AN6007 - ADVANCED PROGRAMMING\Group Project\Archive\monthly_2025-01.csv
 2025-02-13 11:33:45,138 - PowerManagementSystem - ERROR - Unexpected error reading monthly archive file: Archive file for 2025-01 not found
 2025-02-13 11:33:45,139 - PowerManagementSystem - ERROR - Archive file not found: Archive file for 2025-01 not found
+2025-02-13 03:53:06,567 - PowerManagementSystem - INFO - Successfully loaded 3 accounts from account.csv
+2025-02-13 03:53:06,578 - PowerManagementSystem - INFO - Successfully loaded 3 accounts from account.csv
+2025-02-13 03:55:22,740 - PowerManagementSystem - INFO - Received registration request for 804-007-878
+2025-02-13 03:55:22,740 - PowerManagementSystem - INFO - Attempting to register account: LL, EE, 804-007-878
+2025-02-13 03:55:22,744 - PowerManagementSystem - INFO - Successfully registered account with meter ID: 804-007-878
+2025-02-13 03:55:22,744 - PowerManagementSystem - INFO - Account registered successfully: 804-007-878
+2025-02-13 03:55:59,212 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-01-08 09:00:00
+2025-02-13 03:55:59,212 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-01-08 09:00:00, reading=48.59
+2025-02-13 03:55:59,212 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:55:59,212 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:14,608 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-01-08 22:30:00
+2025-02-13 03:56:14,609 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-01-08 22:30:00, reading=52.99
+2025-02-13 03:56:14,609 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:14,609 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:29,522 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-01-10 11:00:00
+2025-02-13 03:56:29,523 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-01-10 11:00:00, reading=62.53
+2025-02-13 03:56:29,523 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:29,523 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:42,886 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-01-20 15:30:00
+2025-02-13 03:56:42,886 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-01-20 15:30:00, reading=130.92
+2025-02-13 03:56:42,886 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:42,887 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:56,590 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-01-26 17:30:00
+2025-02-13 03:56:56,591 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-01-26 17:30:00, reading=171.48
+2025-02-13 03:56:56,591 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:56:56,591 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:12,232 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-02-01 06:00:00
+2025-02-13 03:57:12,232 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-02-01 06:00:00, reading=0.69
+2025-02-13 03:57:12,232 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:12,232 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:47,532 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-02-03 01:00:00
+2025-02-13 03:57:47,532 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-02-03 01:00:00, reading=12.93
+2025-02-13 03:57:47,532 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:47,532 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:58,477 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-02-05 21:00:00
+2025-02-13 03:57:58,477 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-02-05 21:00:00, reading=31.53
+2025-02-13 03:57:58,477 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:57:58,477 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:58:09,717 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-02-08 08:30:00
+2025-02-13 03:58:09,717 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-02-08 08:30:00, reading=46.93
+2025-02-13 03:58:09,717 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:58:09,717 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:58:44,913 - PowerManagementSystem - INFO - Received meter reading request for meter ID: 804-007-878 at timestamp: 2025-02-13 10:30:00
+2025-02-13 03:58:44,913 - PowerManagementSystem - INFO - Recording meter reading: meter_id=804-007-878, timestamp=2025-02-13 10:30:00, reading=79.74
+2025-02-13 03:58:44,913 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:58:44,913 - PowerManagementSystem - INFO - Meter reading successfully recorded for meter ID: 804-007-878
+2025-02-13 03:59:12,500 - PowerManagementSystem - INFO - Received request to get consumption for meter ID: 804-007-878, period: this_month
+2025-02-13 03:59:12,501 - PowerManagementSystem - INFO - Calculating consumption for meter 804-007-878 from 2025-02-01 00:00:00 to 2025-02-13 03:30:00
+2025-02-13 03:59:12,501 - PowerManagementSystem - INFO - Calculated consumption for meter 804-007-878: 46.24 kWh
+2025-02-13 03:59:12,501 - PowerManagementSystem - INFO - Consumption retrieved successfully for meter ID: 804-007-878, period: this_month
+2025-02-13 04:00:11,874 - PowerManagementSystem - INFO - Archiving readings for period: monthly
+2025-02-13 04:00:11,875 - PowerManagementSystem - INFO - Clearing memory for archived readings of meter ID: 804-007-878
+2025-02-13 04:00:11,877 - PowerManagementSystem - INFO - Archived data saved to /workspaces/AN6007-Project/Archive/monthly_2025-01.csv
+2025-02-13 04:00:11,877 - PowerManagementSystem - INFO - Calculating consumption for meter 123-456-789 from 2025-02-01 00:00:00 to 2025-02-13 04:00:00
+2025-02-13 04:00:11,877 - PowerManagementSystem - ERROR - No readings found for meter 123-456-789 between 2025-02-01 00:00:00 and 2025-02-13 04:00:00
+2025-02-13 04:00:13,980 - PowerManagementSystem - INFO - Archiving readings for period: monthly
+2025-02-13 04:00:13,981 - PowerManagementSystem - INFO - Calculating consumption for meter 123-456-789 from 2025-02-01 00:00:00 to 2025-02-13 04:00:00
+2025-02-13 04:00:13,981 - PowerManagementSystem - ERROR - No readings found for meter 123-456-789 between 2025-02-01 00:00:00 and 2025-02-13 04:00:00
+2025-02-13 04:00:43,893 - PowerManagementSystem - INFO - Received request to get last month's bill for meter ID: 804-007-878
+2025-02-13 04:00:43,897 - PowerManagementSystem - INFO - Bill details retrieved successfully for meter ID: 804-007-878
+2025-02-13 04:00:46,356 - PowerManagementSystem - INFO - Received request to get last month's bill for meter ID: 804-007-878
+2025-02-13 04:00:46,359 - PowerManagementSystem - INFO - Bill details retrieved successfully for meter ID: 804-007-878
+2025-02-13 04:01:12,325 - PowerManagementSystem - INFO - Starting data restoration process
+2025-02-13 04:01:12,325 - PowerManagementSystem - INFO - Starting data restoration process
+2025-02-13 04:01:12,327 - PowerManagementSystem - INFO - Restored data from /workspaces/AN6007-Project/Archive/daily_2025-02-08.csv
+2025-02-13 04:01:12,328 - PowerManagementSystem - INFO - Restored data from /workspaces/AN6007-Project/Archive/daily_2025-02-12.csv
+2025-02-13 04:01:12,328 - PowerManagementSystem - ERROR - Error reading log file: 'utf-8' codec can't decode byte 0xc4 in position 5226: invalid continuation byte
+2025-02-13 04:01:12,328 - PowerManagementSystem - INFO - Restored 2 meter(s) data
+2025-02-13 04:01:12,328 - PowerManagementSystem - INFO - Successfully restored 2 meters and 4 readings
+2025-02-13 04:01:15,429 - PowerManagementSystem - INFO - Starting data restoration process
+2025-02-13 04:01:15,429 - PowerManagementSystem - INFO - Starting data restoration process
+2025-02-13 04:01:15,430 - PowerManagementSystem - INFO - Restored data from /workspaces/AN6007-Project/Archive/daily_2025-02-08.csv
+2025-02-13 04:01:15,431 - PowerManagementSystem - INFO - Restored data from /workspaces/AN6007-Project/Archive/daily_2025-02-12.csv
+2025-02-13 04:01:15,431 - PowerManagementSystem - ERROR - Error reading log file: 'utf-8' codec can't decode byte 0xc4 in position 5226: invalid continuation byte
+2025-02-13 04:01:15,431 - PowerManagementSystem - INFO - Restored 2 meter(s) data
+2025-02-13 04:01:15,431 - PowerManagementSystem - INFO - Successfully restored 2 meters and 4 readings
